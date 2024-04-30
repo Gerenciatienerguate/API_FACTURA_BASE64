@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Base64_Framework.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="fireFoxPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\Mozilla Firefox\firefox.exe</Value>
+    </Setting>
+    <Setting Name="PdfPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\inetpub\wwwroot\ENE_FACT64_GEN\PDFGenerated</Value>
+    </Setting>
+    <Setting Name="PdfGeneratorApiUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://172.31.1.89:9041</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
