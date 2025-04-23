@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CxRxf2adKBXPkGUha46tQLgwIaSyV52Pn0g5PRzJiiI=",
+  "Source": "API_CHATBOT_PDF",
+  "BasePath": "_content/API_CHATBOT_PDF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
